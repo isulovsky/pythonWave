@@ -1,2 +1,2 @@
-Simple python tool for post-processing of an arbitrary surface waves from time to frequency domain. JONSWAP spectrum is used for synthetic wave series, adjust accordingly to your needs.
+Simple python tool for post-processing of an arbitrary surface waves from time to frequency domain. The purpose of this repository is  based on a) scarcity of open-source tools for such operations b) the reconstruction is not as straightforward as you might expected from the literature in ocean engineering. Currently, JONSWAP spectrum is used for synthetic wave series so adjust accordingly to your needs.
 ![waves](https://github.com/user-attachments/assets/4127f508-1938-4d20-bdd8-f9c61b36da8e)
