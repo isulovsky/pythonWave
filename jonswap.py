@@ -2,7 +2,7 @@
 """
 Created on Tue Oct 29 14:17:19 2024
 
-@author: user
+@author: Ivan Sulovsky
 """
 
 # -*- coding: utf-8 -*-
